@@ -89,6 +89,7 @@
   background-image: url("../images/staff_picks_background.jpg");
   padding: 100px 0 140px;
   background-position: center;
+  background-size: cover;
 }
 
 .staff__title {
